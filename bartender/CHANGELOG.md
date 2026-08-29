@@ -1,6 +1,13 @@
 ## What's Changed
 
-- Release: merge dev into main @cjramseyer (#103)
-- Fix template formatting warnings and stabilize dashboard rendering @cjramseyer (#102)
+## 🚀 Features
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.8.2...v0.8.3
+- Merge dev into main @cjramseyer (#105)
+- Add Home Assistant add-on README and beer catalog CSV support @cjramseyer (#104)
+
+## 📚 Documentation
+
+- Merge dev into main @cjramseyer (#105)
+- Add Home Assistant add-on README and beer catalog CSV support @cjramseyer (#104)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.8.3...v0.9.0
