@@ -1,6 +1,8 @@
 ## What's Changed
 
-- Fix Home Assistant ingress proxy handling @cjramseyer (#113)
-- Fix Home Assistant ingress proxy handling @cjramseyer (#112)
+## 🚀 Features
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.11.1...v0.11.2
+- Fix invalid volume units in analytics @cjramseyer (#115)
+- Fix invalid volume units in analytics @cjramseyer (#114)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.11.2...v0.12.0
