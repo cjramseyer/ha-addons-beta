@@ -2,12 +2,7 @@
 
 ## 🚀 Features
 
-- Merge dev into main @cjramseyer (#105)
-- Add Home Assistant add-on README and beer catalog CSV support @cjramseyer (#104)
+- Add team accounts with role-based permissions @cjramseyer (#107)
+- Add team accounts with role-based permissions @cjramseyer (#106)
 
-## 📚 Documentation
-
-- Merge dev into main @cjramseyer (#105)
-- Add Home Assistant add-on README and beer catalog CSV support @cjramseyer (#104)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.8.3...v0.9.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.9.0...v0.10.0
