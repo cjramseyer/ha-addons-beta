@@ -1,8 +1,9 @@
 ## What's Changed
 
+- Merge dev into main @cjramseyer (#117)
+
 ## 🚀 Features
 
-- Fix invalid volume units in analytics @cjramseyer (#115)
-- Fix invalid volume units in analytics @cjramseyer (#114)
+- Hotfix: restore login screen and CSV upload handling @cjramseyer (#116)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.11.2...v0.12.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.12.0...v0.13.0
