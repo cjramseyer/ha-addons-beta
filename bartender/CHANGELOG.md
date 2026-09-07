@@ -1,8 +1,6 @@
 ## What's Changed
 
-## 🚀 Features
+- Add comprehensive audit trail controls @cjramseyer (#142)
+- Add comprehensive audit trail controls @cjramseyer (#141)
 
-- Improve settings recovery and display configuration UX @cjramseyer (#140)
-- Improve settings recovery and autosave UX @cjramseyer (#138)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.16.0...v0.17.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.17.0...v0.17.1
