@@ -1,6 +1,6 @@
 ## What's Changed
 
-- Log telemetry heartbeat outcomes @cjramseyer (#151)
-- Log telemetry heartbeat outcomes @cjramseyer (#150)
+- Fix telemetry heartbeat endpoint @cjramseyer (#153)
+- Fix telemetry heartbeat endpoint @cjramseyer (#152)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.17.3...v0.17.4
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.17.4...v0.17.5
