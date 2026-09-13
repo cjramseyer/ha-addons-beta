@@ -2,13 +2,11 @@
 
 ## 🚀 Features
 
-- Release Brewfather, QR/NFC sign-in, and mobile layout @cjramseyer (#160)
-- Add per-user QR/NFC sign-in and mobile layout @cjramseyer (#159)
-- Add Brewfather integration and configurable storage @cjramseyer (#158)
+- Release production WSGI, dashboard editing, and database options @cjramseyer (#164)
+- Run add-on listeners with production WSGI @cjramseyer (#162)
 
-## 🔒 Security
+## 📚 Documentation
 
-- Release Brewfather, QR/NFC sign-in, and mobile layout @cjramseyer (#160)
-- Add per-user QR/NFC sign-in and mobile layout @cjramseyer (#159)
+- Add Home Assistant database configuration options @cjramseyer (#161)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.18.0...v0.19.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.19.0...v0.20.0
