@@ -1,6 +1,8 @@
 ## What's Changed
 
-- Release packaged What’s New fix @cjramseyer (#188)
-- Fix packaged release highlights and What's New modal @cjramseyer (#187)
+## 🔒 Security
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.4...v0.24.5
+- Release Keystone licensing integration @cjramseyer (#190)
+- Add Keystone activation requests and portal configuration @cjramseyer (#189)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.5...v0.24.6
