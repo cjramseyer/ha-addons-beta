@@ -1,8 +1,6 @@
 ## What's Changed
 
-## 🔒 Security
+- Release profile visibility and local What’s New updates @cjramseyer (#182)
+- Make release highlights and Pro settings profile-aware @cjramseyer (#181)
 
-- Release Pro licensing and CORS management @cjramseyer (#180)
-- Add Pro licensing and secure management controls @cjramseyer (#179)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.0...v0.24.1
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.1...v0.24.2
