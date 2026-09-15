@@ -1,12 +1,8 @@
 ## What's Changed
 
-## 🚀 Features
-
-- Add authenticated mobile access and session management @cjramseyer (#178)
-
 ## 🔒 Security
 
-- Add authenticated mobile access and session management @cjramseyer (#178)
-- Fix first-run setup bootstrap @cjramseyer (#177)
+- Release Pro licensing and CORS management @cjramseyer (#180)
+- Add Pro licensing and secure management controls @cjramseyer (#179)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.23.0...v0.24.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.0...v0.24.1
