@@ -1,8 +1,6 @@
 ## What's Changed
 
-## 📚 Documentation
+- Promote Pro drink recipes and shopping workflows to main @cjramseyer (#219)
+- Add Pro drink recipes, shopping lists, and public stock filtering @cjramseyer (#218)
 
-- Release: fix owner mobile sign-in with Owner PIN @cjramseyer (#217)
-- Fix owner mobile sign-in with Owner PIN @cjramseyer (#216)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.26.1...v0.26.2
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.26.2...v0.26.3
